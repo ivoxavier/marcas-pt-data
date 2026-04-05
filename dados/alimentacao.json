@@ -1,0 +1,29 @@
+[
+  {
+    "nome": "Delta Cafés",
+    "descricao": "Empresa de torrefação e empacotamento de café, fundada por Rui Nabeiro. É a marca líder de café em Portugal.",
+    "categoria_principal": "Alimentação",
+    "ano_fundacao": 1961,
+    "disponivel_em": ["Supermercados", "Cafés e Restauração", "Online", "Loja Própria"],
+    "website": "https://www.deltacafes.pt",
+    "ativo": true
+  },
+  {
+    "nome": "Sumol",
+    "descricao": "Primeira bebida de sumo de fruta pasteurizada a surgir em Portugal. Famosa pelo seu sumo de laranja e ananás com gás.",
+    "categoria_principal": "Alimentação",
+    "ano_fundacao": 1954,
+    "disponivel_em": ["Supermercados", "Cafés e Restauração"],
+    "website": "https://www.sumol.pt",
+    "ativo": true
+  },
+  {
+    "nome": "Renova",
+    "descricao": "Marca portuguesa de produtos de grande consumo em papel. Conhecida mundialmente por ter inventado o papel higiénico preto.",
+    "categoria_principal": "Alimentação e Supermercado",
+    "ano_fundacao": 1939,
+    "disponivel_em": ["Supermercados", "Online"],
+    "website": "https://www.myrenova.com",
+    "ativo": true
+  }
+]

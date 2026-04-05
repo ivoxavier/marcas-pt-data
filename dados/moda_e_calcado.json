@@ -1,0 +1,29 @@
+[
+  {
+    "nome": "Salsa Jeans",
+    "descricao": "Marca especializada em Denim (calças de ganga), conhecida pelas suas inovações em modelagem, como os jeans Push-Up.",
+    "categoria_principal": "Moda e Calçado",
+    "ano_fundacao": 1994,
+    "disponivel_em": ["Loja Própria", "Online", "Revendedores"],
+    "website": "https://www.salsajeans.com",
+    "ativo": true
+  },
+  {
+    "nome": "Josefinas",
+    "descricao": "Marca portuguesa de calçado de luxo feminino, criada com o propósito de inspirar e dar poder às mulheres. Famosa pelas suas sabrinas.",
+    "categoria_principal": "Moda e Calçado",
+    "ano_fundacao": 2013,
+    "disponivel_em": ["Online", "Loja Própria"],
+    "website": "https://josefinas.com",
+    "ativo": true
+  },
+  {
+    "nome": "Parfois",
+    "descricao": "Marca de acessórios de moda femininos (malas, joalharia, sapatos e roupa) com forte presença internacional.",
+    "categoria_principal": "Moda e Calçado",
+    "ano_fundacao": 1994,
+    "disponivel_em": ["Loja Própria", "Online"],
+    "website": "https://www.parfois.com",
+    "ativo": true
+  }
+]

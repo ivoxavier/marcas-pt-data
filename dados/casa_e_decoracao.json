@@ -1,0 +1,29 @@
+[
+  {
+    "nome": "Vista Alegre",
+    "descricao": "Uma das mais antigas e prestigiadas fábricas de porcelana de Portugal, com reconhecimento internacional pela qualidade e design.",
+    "categoria_principal": "Casa e Decoração",
+    "ano_fundacao": 1824,
+    "disponivel_em": ["Loja Própria", "Online", "Revendedores"],
+    "website": "https://vistaalegre.com",
+    "ativo": true
+  },
+  {
+    "nome": "Bordallo Pinheiro",
+    "descricao": "Fábrica de faianças artísticas famosa pelas suas peças com formas de natureza, como as couves, andorinhas e sapos.",
+    "categoria_principal": "Casa e Decoração",
+    "ano_fundacao": 1884,
+    "disponivel_em": ["Loja Própria", "Online", "Revendedores"],
+    "website": "https://www.bordallopinheiro.com",
+    "ativo": true
+  },
+  {
+    "nome": "Castelbel",
+    "descricao": "Empresa do Grande Porto que produz sabonetes de luxo, fragrâncias para o corpo e para a casa.",
+    "categoria_principal": "Casa e Decoração",
+    "ano_fundacao": 1999,
+    "disponivel_em": ["Loja Própria", "Online", "Revendedores"],
+    "website": "https://www.castelbel.com",
+    "ativo": true
+  }
+]

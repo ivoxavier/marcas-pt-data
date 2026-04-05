@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "OutSystems",
+    "descricao": "Um dos primeiros 'unicórnios' portugueses. É uma plataforma low-code líder mundial para o desenvolvimento rápido de aplicações.",
+    "categoria_principal": "Tecnologia e Software",
+    "ano_fundacao": 2001,
+    "disponivel_em": ["Online"],
+    "website": "https://www.outsystems.com",
+    "ativo": true
+  },
+  {
+    "nome": "Science4you",
+    "descricao": "Empresa 100% portuguesa dedicada ao desenvolvimento, produção e comercialização de brinquedos educativos e científicos.",
+    "categoria_principal": "Tecnologia e Software",
+    "ano_fundacao": 2008,
+    "disponivel_em": ["Loja Própria", "Supermercados", "Online", "Revendedores"],
+    "website": "https://www.science4you.pt",
+    "ativo": true
+  }
+]
